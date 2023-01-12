@@ -13,4 +13,4 @@ code inside
 
 run `node convert.js`
 
-=> file.pdf is created
+=> file.pdf is updated
