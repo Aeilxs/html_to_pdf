@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  },
+  "name": "html_to_pdf",
+  "version": "1.0.0",
+  "description": "convert html to pdf",
+  "main": "convert.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
